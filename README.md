@@ -1,6 +1,6 @@
 # 🖐️ Sign Language Recognition System
 
-![Sign Language Recognition](https://github.com/AaditSingh/Sign-Language-Recognition-System/blob/6bb7ed21b8499b042e8cebb9a16fc7a5d05fbb56/asl_sign.png)
+![Sign Language Recognition](https://github.com/paradise2580/Signapse--SignLanguage_Recommendation_System/blob/main/asl_sign.png)
 
 ## 📚 Project Overview
 
