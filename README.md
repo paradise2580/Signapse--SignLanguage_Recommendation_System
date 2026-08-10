@@ -27,7 +27,7 @@ We are using the “Sign Language MNIST” dataset, a public-domain, free-to-use
 
 ## 🏛️ System Architecture
 
-![Sign Language Recognition](https://github.com/AaditSingh/Sign-Language-Recognition-System/blob/a27c5b502d17bcaad962dc5788f1bba6ce2c89ac/Architecture.png)
+![Sign Language Recognition](https://github.com/paradise2580/Signapse--SignLanguage_Recommendation_System/blob/main/Architecture.png)
 
 ### 1. Data Acquisition
 - **Dataset:** Sign Language MNIST dataset from [Kaggle](https://www.kaggle.com/datasets/datamunge/sign-language-mnist)
